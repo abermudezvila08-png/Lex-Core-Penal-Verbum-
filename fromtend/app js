@@ -1,0 +1,6 @@
+const steps = [...document.querySelectorAll('.step')];
+steps.forEach((step, index) => step.addEventListener('click', () => {
+  steps.forEach(s => s.classList.remove('active'));
+  step.classList.add('active');
+  document.querySelector('.eyebrow').textContent = `TRAYECTORIA · ${String(index + 1).padStart(2,'0')} · ${step.querySelector('b').textContent.toUpperCase()}`;
+}));
