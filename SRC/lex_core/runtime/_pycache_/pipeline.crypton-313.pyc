@@ -1,0 +1,50 @@
+ó
+
+    ê
+”j    ã                    ó‚   • S S K J r J r   S S K J r   S S K J r J r J r J	r	  S S K
+J
+r
+  S S K J
+r
+  \   " S   S 5       5       r   " S	  S
+5       r g
+) é    ) Ú	dataclassÚ field) Ú uuid4é    ) Ú ElementÚ NormÚ RuleÚ Result) Ú
+RuleEngine) Ú	Validatorc                    óF   • \ r S r S r % \ \ S '   \ \ S '   \ " \ S 9 r \ \	    \ S '   S r
+g ) Ú	Executioné    Ú task_idÚ correlation_id) Ú default_factoryÚ events© N)
+Ú __name__Ú
+__module__Ú __qualname__Ú __firstlineno__Ú strÚ __annotations__r    Ú listr    Ú dictÚ __static_attributes__r    ó    Ú9/mnt/data/Tu-aboga2-cuba/src/lex_core/runtime/pipeline.pyr    r        s    ‡ à
+ ƒLØ  Ó  Ù  ¨tÑ 4€FˆD� ‰JÖ 4r    r    c                    ó`   • \ r S r S r S   r S \ S \ S \ \ \ 4     S \ \ \	4     S \
+\     S \
+\ \
+4     4 S	  j r S
+r g
+) Ú
+LegalPipelineé
+   c                    ó@   • [         5       U l         [         5       U l         g ) N) r
+   Ú enginer    Ú	validator) Ú selfs     r    Ú __init__Ú LegalPipeline.__init__    s    € Ü  “lˆ Œ
+Ü "› ˆ � r    Ú taskÚ ruleÚ elementsÚ normsÚ norm_idsÚ returnc                    ó°   • [         [         5       5       n [         [         [         5       5       U 5       n U R                   R	                  S U S . 5         U R                   R	                  S S S . 5         U R                   R	                  S U R
+                  S . 5         U R                   R                   X#5       n XXl         U R                   R                   5       U l
+        U R                   R	                  S S	0 5         U R                   R                   X„U 5       n U R                   R	                  S
+U R                   S
+. 5         U R                   R                   5       U l
+        Xx4 $ ) NÚ TASK) Ú typer)   Ú CLASSIFYÚ juridico) r1   Ú domainÚ REASON) r1   r*   r1   Ú VALIDATEÚ RESULT) r1   Ú status) r    r    r    r    Ú appendÚ idr$   Ú evaluateÚ
+norms_usedÚ copyÚ tracer%   Ú validater8   )	r&   r)   r*   r+   r,   r-   Ú
+correlationÚ	executionÚ results	            r    Ú runÚ LegalPipeline.run    s	   € Ü  œ%›'“lˆ
+Ü  œc¤%£'›l¨KÓ 8ˆ	Ø  ×  Ñ  ×  Ñ  ¨ ¸ Ñ >Ô ?Ø  ×  Ñ  ×  Ñ  ¨ ¸zÑ JÔ KØ  ×  Ñ  ×  Ñ  ¨ ¸4¿7¹7Ñ CÔ DØ  — ‘ × %Ñ % dÓ 5ˆ Ø $Ô  Ø  × 'Ñ '× ,Ñ ,Ó .ˆ Œ Ø  ×  Ñ  ×  Ñ    ¨ Ð 4Ô 5Ø  — ‘ × (Ñ (¨ ¸ Ó Aˆ Ø  ×  Ñ  ×  Ñ  ¨ ¸V¿]¹]Ñ KÔ LØ  × 'Ñ '× ,Ñ ,Ó .ˆ Œ Ø  Ð  Ð  r    ) r$   r%   N) r    r    r    r    r'   r    r	   r    r    r    r    Ú tupler    r
+   rC   r    r    r    r    r!   r!   
+   sn   † ò   %ð 
+ !˜ ð 
+ ! 4ð 
+ !°4¸ ¸W¸ Ñ3Eð 
+ !ÈdÐSVÐX\ÐS\Éoð 
+ !ÐimÐnqÑirð 
+ !Ðw|ð  ~ G ð  I O ð  ~ O ñ  x P ÷ 
+ !r    r!   N) Ú
+dataclassesr    r    Ú uuidr    Ú
+domain.modelsr    r    r	   r
+   Ú reasoning.enginer
+   Ú validation.validatorr    r    r!   r    r    r    Ú <module>rK       s8   ð    ß (Ý  ß 7Ó 7Ý )Ý ,à 
+÷   5ð   5ó   
+ð   5÷
+  !ò   !r    
+
